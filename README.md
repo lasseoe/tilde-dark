@@ -5,7 +5,7 @@ A soothing dark theme for [iTerm2](https://github.com/gnachman/iTerm2)
 
 ## Usage
 
-1. [Download](https://github.com/lasseoe/tilde-dark/tilde-dark.itermcolors) the file.
+1. [Download](https://github.com/lasseoe/tilde-dark/Tilde-Dark.itermcolors) the file.
 2. Launch iTerm
 3. Press CMD+i (⌘+i)
 4. Navigate to the **Colors** tab
